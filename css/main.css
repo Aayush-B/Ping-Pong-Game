@@ -50,7 +50,7 @@ body{
     position: absolute ;
     height: 50px ;
     width: 50px ;
-    background-image: url('assets/ball-background.jpeg');
+    background-image: url('../media/ball-background.jpeg');
     background-size: contain;
     border-radius: 50% ;
     box-shadow: 0px 0px 4px 2px black ;
